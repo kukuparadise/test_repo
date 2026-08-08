@@ -1,1 +1,1 @@
-select * from myschema.mytable;
+select mycol from myschema.mytable;
